@@ -1,0 +1,83 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+
+html, body{
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+    
+
+}
+
+.pagLogin  {
+    color: hsl(209, 14%, 29%);
+    letter-spacing: normal;
+    font-size: 20px;
+    margin-right: 20rem;
+    margin-top: 0px;
+
+}
+.pagLogin #subTex{ 
+
+    font-size: 17px;
+    color: hsla(0, 1%, 62%, 0.788);
+    letter-spacing: normal;
+   
+
+}
+
+.pagLogin a {
+
+    color: hsl(239, 100%, 68%);
+    text-decoration-line: none;
+    
+}
+
+.form {
+
+    color:hsl(239, 100%, 68%);
+    margin-left: 20em;
+    margin-top: 70px;
+
+    
+}  
+
+.form label {
+    font-size: 17px;
+}
+
+
+.form input {
+    border: none;
+    border-bottom: 1px solid #CCCCCCCC;
+    
+}
+
+.buttons #botaoEntrar {
+
+    background: hsl(239, 100%, 64%);
+    width: 230px;
+    height: 47px;
+    border-radius: 6px;
+    box-shadow: 0px 5px 10px hsla(216, 100%, 68%, 0.196);
+    text-align: center;
+	cursor: pointer;
+    outline: none;
+    color: rgb(255, 255, 255)
+
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding-top: 8em;
+
+}
+
+

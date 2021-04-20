@@ -1,0 +1,90 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+
+html, body{
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+    
+
+}
+
+.pagInscrever  {
+    color: hsl(209, 14%, 29%);
+    letter-spacing: normal;
+    font-size: 20px;
+    margin-right: 20rem;
+    margin-top: 0px;
+
+}
+
+.pagInscrever label {
+
+    color: hsl(209, 14%, 29%);
+    letter-spacing: normal;
+    font-size: 15px;
+    font-weight: normal;
+    margin-right: 0rem;
+    margin-top: 0px;
+
+}
+
+.buttons .fat{
+
+    background: hsl(239, 100%, 64%);
+    width: 230px;
+    height: 47px;
+    border-radius: 6px;
+    box-shadow: 0px 5px 10px hsla(216, 100%, 68%, 0.196);
+    text-align: center;
+	cursor: pointer;
+    outline: none;
+    color: rgb(255, 255, 255)
+}
+
+.pagInscrever #FormarEquipe {
+
+    font-size: 15px;
+    color: hsla(0, 1%, 62%, 0.788);
+    letter-spacing: normal;
+
+}
+
+.pagInscrever a{
+
+    font-size: 17px;
+    color:hsl(209, 14%, 29%);
+    letter-spacing: normal;
+    text-decoration-line: none;
+
+}
+
+.formInsc {
+
+    color:hsl(239, 100%, 68%);
+    margin-left: 20em;
+    margin-top: 70px;
+
+}
+
+.formInsc label {
+    font-size: 17px;
+}
+
+.formInsc input {
+    border: none;
+    border-bottom: 1px solid #CCCCCCCC;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding-top: 0em;
+
+}
