@@ -14,6 +14,13 @@ html, body{
 h3 {
     font-size: 27px;
 }
+
+
+img {
+	
+    margin-left: 5rem;  
+}
+
 .recSenha {
     color: hsl(209, 14%, 29%);
     letter-spacing: normal;
